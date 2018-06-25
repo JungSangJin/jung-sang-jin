@@ -12,7 +12,8 @@ This file is a pronunciation training app designed to help the hearing impaired.
 First, you need to make a rough design to make an app.
 You have to think about how to organize the menu and how to operate it.
 If you finish the design, go into the block and design the program. Once you have finished setting up the block, You can download and run the app
-(#synchronization) section).
+(check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
+
 
 **Process**
 We have 3 difficulty levels to choose from for the pronunciation correction. The beginner level is practiced with the words and the intermediate level is practiced with the sentence.
