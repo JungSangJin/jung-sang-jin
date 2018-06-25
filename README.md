@@ -1,4 +1,4 @@
-#Pronunciation Correction Apllication for a hearing-impaired person
+Pronunciation Correction Apllication for a hearing-impaired person
 ======
 
 This file is a pronunciation training app designed to help the hearing impaired.
