@@ -4,9 +4,9 @@ Pronunciation Correction Apllication for a hearing-impaired person
 This file is a pronunciation training app designed to help the hearing impaired.
 -----
 **MIT Inventorv**
->-MIT App Inventor is an intuitive visual programming environment for anyone to develop a full-featured app for smartphones and tablets.
+> - MIT App Inventor is an intuitive visual programming environment for anyone to develop a full-featured app for smartphones and tablets.
 
->-Block-based tools make it easier to create complex and effective applications in a much shorter time than traditional programming environments.
+> - Block-based tools make it easier to create complex and effective applications in a much shorter time than traditional programming environments.
 
 **How to use**
 >First, you need to make a rough design to make an app.
