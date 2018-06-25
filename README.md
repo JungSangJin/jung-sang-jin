@@ -15,11 +15,11 @@ This file is a pronunciation training app designed to help the hearing impaired.
 
 
 **Process**
--We have 3 difficulty levels to choose from for the pronunciation correction. The beginner level is practiced with the words and the intermediate level is practiced with the sentence.
--The advanced level can be practiced freely by entering the sentence.
--I have made it possible to practice pronunciation by putting text, words and sentences in each step and pronunciation training.
-And I have made it possible to practice more effectively by using voice recognition function and recording function.
--In the beginner stage, if you select a word and press play button, So you can practice what you say. You can also record what you say and play it and hear how it was pronounced.
--Intermediate level is the same. Here we start with sentence unit.
--Listen to the same pronunciation, practice, record what we said and play it well.
--In the advanced level, it is possible to practice without limit by typing the sentences freely in the text.
+ - We have 3 difficulty levels to choose from for the pronunciation correction. The beginner level is practiced with the words and the intermediate level is practiced with the sentence.
+ - The advanced level can be practiced freely by entering the sentence.
+ - I have made it possible to practice pronunciation by putting text, words and sentences in each step and pronunciation training.
+   And I have made it possible to practice more effectively by using voice recognition function and recording function.
+ - In the beginner stage, if you select a word and press play button, So you can practice what you say. You can also record what you say      and play it and hear how it was pronounced.
+ - Intermediate level is the same. Here we start with sentence unit.
+ - Listen to the same pronunciation, practice, record what we said and play it well.
+ - In the advanced level, it is possible to practice without limit by typing the sentences freely in the text.
