@@ -8,11 +8,11 @@ This file is a pronunciation training app designed to help the hearing impaired.
 
 >-Block-based tools make it easier to create complex and effective applications in a much shorter time than traditional programming environments.
 
-**How to use**
+>**How to use**
 First, you need to make a rough design to make an app.
 You have to think about how to organize the menu and how to operate it.
 If you finish the design, go into the block and design the program. Once you have finished setting up the block, You can download and run the app
-(check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
+(#synchronization) section).
 
 
 **Process**
