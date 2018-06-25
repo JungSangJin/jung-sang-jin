@@ -13,6 +13,8 @@ First, you need to make a rough design to make an app.
 You have to think about how to organize the menu and how to operate it.
 If you finish the design, go into the block and design the program. Once you have finished setting up the block, You can download and run the app
 (#synchronization) section).
+
+**Process**
 We have 3 difficulty levels to choose from for the pronunciation correction. The beginner level is practiced with the words and the intermediate level is practiced with the sentence.
 The advanced level can be practiced freely by entering the sentence.
 I have made it possible to practice pronunciation by putting text, words and sentences in each step and pronunciation training.
